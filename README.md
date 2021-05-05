@@ -4,6 +4,5 @@
 
 ## Added:
 ### Guesing game
-
-## To be added
 ### Hangman
+
