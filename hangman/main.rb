@@ -1,3 +1,3 @@
-require_relative 'hangman'
+require_relative "hangman"
 
 hangman
