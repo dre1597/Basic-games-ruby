@@ -16,3 +16,14 @@ I just make some minor changes and translate into English.
 
 - Guesing game
 - Hangman
+
+
+## To improve on hangman
+
+- the main.rb need to be run from the folder its, because of this line
+
+```ruby
+  text = File.read("./words.txt")
+```
+
+- even if you find all the letters still need to put the word complete
